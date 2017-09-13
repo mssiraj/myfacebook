@@ -9,6 +9,8 @@
 
 <h1>This is Cool template email from my Laravel</h1>
 
+<h3>This is so so cool email!</h3>
+
 <strong>{{$title}}</strong>
 
 <p>{{$content}}</p>
